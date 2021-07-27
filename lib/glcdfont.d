@@ -1,13 +1,13 @@
-.build/obj_candy_ble_pro_v1_default/../../lib/glcdfont.o: \
- keyboards/candy_ble/keymaps/default/../../lib/glcdfont.c \
- keyboards/candy_ble/config.h keyboards/candy_ble/pro_v1/config.h \
- keyboards/candy_ble/board/custom_board.h \
- keyboards/candy_ble/keymaps/default/config.h
+.build/obj_macro10_v1_default/../../lib/glcdfont.o: \
+ keyboards/macro10/keymaps/default/../../lib/glcdfont.c \
+ keyboards/macro10/config.h keyboards/macro10/v1/config.h \
+ keyboards/macro10/board/custom_board.h \
+ keyboards/macro10/keymaps/default/config.h
 
-keyboards/candy_ble/config.h:
+keyboards/macro10/config.h:
 
-keyboards/candy_ble/pro_v1/config.h:
+keyboards/macro10/v1/config.h:
 
-keyboards/candy_ble/board/custom_board.h:
+keyboards/macro10/board/custom_board.h:
 
-keyboards/candy_ble/keymaps/default/config.h:
+keyboards/macro10/keymaps/default/config.h:

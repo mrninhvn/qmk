@@ -36,9 +36,9 @@ extern "C" {
 
 #define PIN5 GPIO(0,15)
 #define PIN6 GPIO(0,17)
-#define PIN7 GPIO(0,20)
+#define PIN7 GPIO(0,24)
 #define PIN8 GPIO(0,13)
-#define PIN9 GPIO(0,24)
+#define PIN9 GPIO(0,20)
 #define PIN10 GPIO(0,9)
 #define PIN11 GPIO(0,10)
 #define PIN12 GPIO(1,6)
@@ -53,7 +53,7 @@ extern "C" {
 #define PIN20 GPIO(0,30)
 
 #define PIN21 GPIO(1,4)
-#define PIN22 GPIO(0,22)
+#define PIN22 GPIO(1,11)
 #define PIN23 GPIO(0,4)	//analog battery
 #define PIN24 GPIO(0,12)
 #define PIN25 GPIO(0,5)

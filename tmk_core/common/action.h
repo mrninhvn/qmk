@@ -95,6 +95,8 @@ void clear_keyboard(void);
 void clear_keyboard_but_mods(void);
 void layer_switch(uint8_t new_layer);
 bool is_tap_key(keypos_t key);
+void tap_code(uint8_t code);
+void tap_code_delay(uint8_t code, uint16_t delay);
 
 #ifndef NO_ACTION_TAPPING
 void process_record_tap_hint(keyrecord_t *record);
